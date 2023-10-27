@@ -165,6 +165,8 @@
 --------------------------------------------------SSH---------------------------------------------------------
         >> Habilitar o ssh server
             ssh server enable
+            ssh2 algorithm cipher aes128-cbc
+ 
 
         >> Gerar o public key
             public key local create rsa
