@@ -211,3 +211,4 @@
             link-aggregation load-sharing mode destination-mac source-mac
 
               
+Referência: https://techexpert.tips/pt-br/hp-switch-pt-br/link-de-agregacao-via-cli-no-switch-hp/
