@@ -1,4 +1,8 @@
 # Guia de comandos Switchs e Roteadores HPE COMWARE 5
+    
+    # Apagar configuração
+        erase saved-configuration
+        reset saved-configuration
 
     # Acesso via terminal/console
         Instalar putty ou hyperterminal
